@@ -30,4 +30,4 @@ while True:
             break
         case _:
             print('Opção inválida.')
-            continue
+            continue                 
